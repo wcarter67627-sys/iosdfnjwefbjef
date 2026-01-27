@@ -1,0 +1,40 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 31 Oct 2025 00:22:40 at https://storage.googleapis.com/klmvarwashingsolutions/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://storage.googleapis.com/klmvarwashingsolutions/index.html -O1 "C:\My Web Sites\IOS POP 31 oct" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:22:46	Error: 	"Not Found" (404) at link https://storage.googleapis.com/klmvarwashingsolutions/index.htm.html (from https://storage.googleapis.com/klmvarwashingsolutions/index.html)
+00:23:12	Error: 	"Not Found" (404) at link https://storage.googleapis.com/klmvarwashingsolutions/css/globalnav/apple/image_large.svg (from https://storage.googleapis.com/klmvarwashingsolutions/css/Base.css)
+00:23:12	Error: 	"Not Found" (404) at link https://storage.googleapis.com/klmvarwashingsolutions/css/globalnav/links/mac/image_large.svg (from https://storage.googleapis.com/klmvarwashingsolutions/css/Base.css)
+00:23:12	Error: 	"Not Found" (404) at link https://storage.googleapis.com/klmvarwashingsolutions/css/globalnav/links/mac/image_small.svg (from https://storage.googleapis.com/klmvarwashingsolutions/css/Base.css)
+00:23:12	Error: 	"Not Found" (404) at link https://storage.googleapis.com/klmvarwashingsolutions/css/globalnav/links/ipad/image_large.svg (from https://storage.googleapis.com/klmvarwashingsolutions/css/Base.css)
+00:23:12	Error: 	"Not Found" (404) at link https://storage.googleapis.com/klmvarwashingsolutions/css/globalnav/links/ipad/image_small.svg (from https://storage.googleapis.com/klmvarwashingsolutions/css/Base.css)
+00:23:12	Error: 	"Not Found" (404) at link https://storage.googleapis.com/klmvarwashingsolutions/css/globalnav/links/iphone/image_large.svg (from https://storage.googleapis.com/klmvarwashingsolutions/css/Base.css)
+00:23:12	Error: 	"Not Found" (404) at link https://storage.googleapis.com/klmvarwashingsolutions/css/globalnav/links/iphone/image_small.svg (from https://storage.googleapis.com/klmvarwashingsolutions/css/Base.css)
+00:23:12	Error: 	"Not Found" (404) at link https://storage.googleapis.com/klmvarwashingsolutions/css/globalnav/links/watch/image_large.svg (from https://storage.googleapis.com/klmvarwashingsolutions/css/Base.css)
+00:23:12	Error: 	"Not Found" (404) at link https://storage.googleapis.com/klmvarwashingsolutions/css/globalnav/links/tv/image_large.svg (from https://storage.googleapis.com/klmvarwashingsolutions/css/Base.css)
+00:23:12	Error: 	"Not Found" (404) at link https://storage.googleapis.com/klmvarwashingsolutions/css/globalnav/links/music/image_large.svg (from https://storage.googleapis.com/klmvarwashingsolutions/css/Base.css)
+00:23:12	Error: 	"Not Found" (404) at link https://storage.googleapis.com/klmvarwashingsolutions/css/globalnav/links/support/image_large.svg (from https://storage.googleapis.com/klmvarwashingsolutions/css/Base.css)
+00:23:12	Error: 	"Not Found" (404) at link https://storage.googleapis.com/klmvarwashingsolutions/css/globalnav/search/image_large.svg (from https://storage.googleapis.com/klmvarwashingsolutions/css/Base.css)
+00:23:12	Error: 	"Not Found" (404) at link https://storage.googleapis.com/klmvarwashingsolutions/css/globalnav/search/image_small.svg (from https://storage.googleapis.com/klmvarwashingsolutions/css/Base.css)
+00:23:12	Error: 	"Not Found" (404) at link https://storage.googleapis.com/klmvarwashingsolutions/css/globalnav/bag/image_large.svg (from https://storage.googleapis.com/klmvarwashingsolutions/css/Base.css)
+00:23:12	Error: 	"Not Found" (404) at link https://storage.googleapis.com/klmvarwashingsolutions/css/globalnav/search/icon_reset_small.svg (from https://storage.googleapis.com/klmvarwashingsolutions/css/Base.css)
+00:23:12	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/IOS POP 31 oct/storage.googleapis.com/klmvarwashingsolutions/images/fa-brands-400.svg
+00:23:12	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/IOS POP 31 oct/storage.googleapis.com/klmvarwashingsolutions/images/fa-regular-400.svg
+00:23:12	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/IOS POP 31 oct/storage.googleapis.com/klmvarwashingsolutions/images/fa-solid-900.svg
+00:23:12	Error: 	"Forbidden" (403) at link https://storage.googleapis.com/core/core.legacy.js (from https://storage.googleapis.com/klmvarwashingsolutions/core/lo.js?site-id=73a6f0b2)
+00:23:12	Error: 	"Forbidden" (403) at link https://storage.googleapis.com/core/core.js (from https://storage.googleapis.com/klmvarwashingsolutions/core/lo.js?site-id=73a6f0b2)
+00:23:12	Error: 	"Forbidden" (403) at link https://storage.googleapis.com/heatmaps2/bootstrap.js (from https://storage.googleapis.com/klmvarwashingsolutions/core/lo.js?site-id=73a6f0b2)
+00:23:12	Error: 	"Forbidden" (403) at link https://storage.googleapis.com/messenger/bootstrap.js (from https://storage.googleapis.com/klmvarwashingsolutions/core/lo.js?site-id=73a6f0b2)
+00:23:12	Error: 	"Forbidden" (403) at link https://storage.googleapis.com/core/selector.js (from https://storage.googleapis.com/klmvarwashingsolutions/core/lo.js?site-id=73a6f0b2)
+00:23:12	Error: 	"Forbidden" (403) at link https://storage.googleapis.com/core/frame.js (from https://storage.googleapis.com/klmvarwashingsolutions/core/lo.js?site-id=73a6f0b2)
+00:23:12	Error: 	"Forbidden" (403) at link https://storage.googleapis.com/core/lo.legacy.js (from https://storage.googleapis.com/klmvarwashingsolutions/core/lo.js?site-id=73a6f0b2)
+00:23:12	Error: 	"Forbidden" (403) at link https://storage.googleapis.com/core/web-vitals.js (from https://storage.googleapis.com/klmvarwashingsolutions/core/lo.js?site-id=73a6f0b2)
+00:23:12	Error: 	"Forbidden" (403) at link https://storage.googleapis.com/core/main.js (from https://storage.googleapis.com/klmvarwashingsolutions/core/lo.js?site-id=73a6f0b2)
+00:23:12	Error: 	"Forbidden" (403) at link https://storage.googleapis.com/privacy/main.js (from https://storage.googleapis.com/klmvarwashingsolutions/core/lo.js?site-id=73a6f0b2)
+
+HTTrack Website Copier/3.49-2 mirror complete in 32 seconds : 61 links scanned, 34 files written (3903981 bytes overall) [3938237 bytes received at 123069 bytes/sec], 11440 bytes transferred using HTTP compression in 1 files, ratio 39%
+(26 errors, 3 warnings, 0 messages)
